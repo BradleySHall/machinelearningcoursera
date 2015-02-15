@@ -34,7 +34,7 @@ sigma = zeros(1, size(X, 2));
 % Hint: You might find the 'mean' and 'std' functions useful.
 %       
 
-X
+% X
 
 %for feature_num = 1:size(X,2)
 for feature_num = j
